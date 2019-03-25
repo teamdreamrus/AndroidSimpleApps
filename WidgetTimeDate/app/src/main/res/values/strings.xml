@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetTimeDate</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="str_btn_set_color">Set Color</string>
+    <string name="visible_date">Скрыть дату</string>
+    <string name="visible_time">Скрыть время</string>
+</resources>

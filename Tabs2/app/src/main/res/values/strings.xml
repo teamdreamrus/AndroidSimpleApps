@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TextToTab1">by Alexey and Nikita</string>
+    <string name="TextToTab2">Tab2 here</string>
+    <string name="TextToTab3">Tab3 here</string>
+
+
+    <string name="Alexey1">Alexey</string>
+    <string name="Alexey2">Goretzzz</string>
+
+    <string name="Vlad1">Vlad</string>
+    <string name="Vlad2">Kapushka</string>
+
+    <string name="Artyom1">Artyom</string>
+    <string name="Artyom2">EnglishMan</string>
+
+    <string name="Nikita1">Nikita</string>
+    <string name="Nikita2">Volchonok</string>
+
+
+
+</resources>
